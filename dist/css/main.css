@@ -1,0 +1,29 @@
+p {
+    font-family: "Times New Roman", Times, sans-serif;
+    color: blue;
+}
+body {
+    font-size: x-large;
+}
+.img-with-text {
+    text-align: left;
+    width: 450;
+}
+textarea { 
+    width: 50%;
+    height: 200px;
+    border-color: teal;
+    border-radius: 5px;
+    padding: .5em; 
+}
+
+input { 
+    width: 50%;
+    border-color: teal;
+    border-radius: 5px;
+    padding: .5em; 
+}
+button {
+    border-color: black;
+    border-radius: 10px;
+}
